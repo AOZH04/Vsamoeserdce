@@ -1,0 +1,8 @@
+<svg width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32.733" cy="33.12" r="32.741" fill="#FAFAFA"/>
+  <!-- Левая палочка -->
+  <rect x="23" y="20" width="8" height="26" fill="#591E25" rx="2"/>
+  <!-- Правая палочка -->
+  <rect x="35" y="20" width="8" height="26" fill="#591E25" rx="2"/>
+</svg>
+

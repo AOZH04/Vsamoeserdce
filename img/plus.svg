@@ -1,0 +1,7 @@
+<svg width="50" height="50" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg" aria-label="Plus icon">
+  <!-- Прозрачный фон -->
+  <rect width="50" height="50" fill="none"/>
+  <!-- Белый плюс (скруглённые края) -->
+  <rect x="11" y="21" width="28" height="8" rx="2" fill="#FFFFFF"/>
+  <rect x="21" y="11" width="8" height="28" rx="2" fill="#FFFFFF"/>
+</svg>
